@@ -21,7 +21,7 @@
 
 Here's the link: https://natours-webpage.netlify.app/
 
-<p align="center"><a href="https://ibb.co/Jt70G5C"><img src="https://i.ibb.co/9gTz1sG/natours.jpg" alt="natours" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>online image hosting</a><br />
+<p align="center"><a href="https://ibb.co/Jt70G5C"><img src="https://i.ibb.co/9gTz1sG/natours.jpg" alt="natours" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
